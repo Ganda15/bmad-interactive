@@ -2,6 +2,8 @@
 
 Interactive French learning page explaining BMAD, Convoque, and agentic product lifecycle steering from the June 30, 2026 lecture screenshots.
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ganda15/bmad-interactive)
+
 ## What This Page Explains
 
 - How BMAD structures agentic software delivery.
